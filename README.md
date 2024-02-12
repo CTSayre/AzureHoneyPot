@@ -1,7 +1,7 @@
 <h1>Azure Honeypot</h1>
 
 <h2>Description</h2>
-This project includes the deployment and network configuration of Azure Cloud resources to host our Honeypot. We will utilize PuTTY, a SSH client for intitial installation of T-pot. T-pot demonstrates live cyber attacks from all over the world, providing information such as attacks by country, attacker IP sources, associated APT's and related CVE's.
+This project is to install a honeypot that will act as a target for attackers, this will allow us to view common TTPs used to attack a system. This includes the deployment and network configuration of Azure Cloud resources to host our Honeypot. We will utilize PuTTY, a SSH client for intitial installation of T-pot. T-pot demonstrates live cyber attacks from all over the world, providing information such as attacks by country, attacker IP sources, associated APT's and related CVE's.
 <br />
 
 
